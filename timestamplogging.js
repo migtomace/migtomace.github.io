@@ -5,6 +5,6 @@ function f() {
         + "/" + currentdate.getFullYear() + " @ "
         + currentdate.getHours() + ":"
         + currentdate.getMinutes() + ":" + currentdate.getSeconds();
-    alert(currentdate);
     console.log(currentdate);
+    alert(currentdate);
 }
