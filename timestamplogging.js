@@ -6,4 +6,5 @@ function f() {
         + currentdate.getHours() + ":"
         + currentdate.getMinutes() + ":" + currentdate.getSeconds();
     alert(currentdate);
+    console.log(currentdate);
 }
